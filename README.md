@@ -1,5 +1,7 @@
 # Crowdfight COVID-19
 
+![Crowdfight COVID-19 logo](https://github.com/crowdfightcovid19/Crowdfight-COVID-19/raw/master/crowdfightcovid19-logo.png)
+
 https://crowdfightcovid19.org
 
 An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.
