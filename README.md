@@ -18,6 +18,4 @@ Of course, everything is for free. This platform works thanks to scientists who 
 
 [Contact us](https://crowdfightcovid19.org/contact)
 
-Social media:
-- [Twitter](https://twitter.com/Crowdfightcovi1)
-- [Instagram](https://www.instagram.com/crowdfightcovid19/)
+[Twitter](https://twitter.com/Crowdfightcovi1) | [Instagram](https://www.instagram.com/crowdfightcovid19/)
